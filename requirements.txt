@@ -71,6 +71,7 @@ multidict==6.0.5
 murmurhash==1.0.10
 networkx==2.8.8
 nltk==3.8.1
+noisereduce==3.0.2
 num2words==0.5.13
 numba==0.59.1
 numpy==1.22.0
@@ -94,9 +95,11 @@ pooch==1.8.1
 preshed==3.0.9
 protobuf==5.26.1
 psutil==5.9.8
+PyAudio==0.2.14
 pycparser==2.22
 pydantic==2.7.1
 pydantic_core==2.18.2
+pydub==0.25.1
 pynndescent==0.5.12
 pyparsing==3.1.2
 pypinyin==0.51.0
@@ -112,6 +115,7 @@ scikit-learn==1.5.0
 scipy==1.11.4
 six==1.16.0
 smart-open==6.4.0
+sounddevice==0.4.6
 soundfile==0.12.1
 soxr==0.3.7
 spacy==3.7.4
